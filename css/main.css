@@ -1,0 +1,39 @@
+.navigation {
+	background-color: green;
+	color: black;
+	padding: 10px;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	border: 100%;
+
+}
+button {
+    background-color: grey;
+    border: none;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+}
+li {
+	color: black;
+	display: inline;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+}
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
